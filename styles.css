@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
 /* Style for navigation bar */
-nav {
+.container {
     background-color: #D3D3D3;
     padding: 10px;
 }
 
 .nav-bar {
+	display:flex;
     list-style: none; /* Remove bullets */
     padding: 0;       /* Remove default padding */
     margin: 0;        /* Remove default margin */
